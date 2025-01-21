@@ -38,3 +38,12 @@ img{
     height:500px;
     width:500px;
 }
+footer{
+    background-color: plum;
+    color: rgb(7, 99, 7);
+    bottom: 10px;
+    right:0px;
+    width:100%;
+    
+    text-align: center;
+}
